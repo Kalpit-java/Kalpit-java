@@ -9,12 +9,13 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Code.+Learn.+Improve.;Building+clean+and+functional+solutions.;Turning+ideas+into+working+projects." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Code.+Learn.+Improve.;Building+clean+and+functional+solutions.;Turning+ideas+into+working+projects." alt="Typing SVG" /></a>
 </div>
 
 ###
 
-<p align="left">I am Kalpit Kumawat</p>
+<p align="left">I’m Kalpit Kumawat — Web Developer | HTML • CSS • JavaScript <br> I build and learn through web development projects.
+</p>
 
 ###
 
