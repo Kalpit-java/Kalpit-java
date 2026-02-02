@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Code.+Learn.+Improve.;Building+clean+and+functional+solutions.;Turning+ideas+into+working+projects." alt="Typing SVG" /></a>
 </div>
 
 ###
